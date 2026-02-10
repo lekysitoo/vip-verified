@@ -36,12 +36,12 @@
       "verified_gradient": "#00ffbf,#ffffff",
       "nick_gradient": "#00ffbf,#ffffff",
       "banner": "neon",
-      "font": "ubuntu",
+      "font": "quicksand",
       "custom_banner_color1": "#6366f1",
       "custom_banner_color2": "#8b5cf6",
       "playerId": null,
       "discordId": null
     }
   },
-  "updated_at": "2026-02-10T18:05:53.653Z"
+  "updated_at": "2026-02-10T18:05:57.834Z"
 }
