@@ -1,4 +1,19 @@
-   {
-     "players": {},
-     "updated_at": "2025-01-01T00:00:00.000Z"
-   }
+{
+  "players": {
+    "YA TU SABE": {
+      "verified": true,
+      "isPro": true,
+      "verified_color": "#00ffbf",
+      "nick_color": "#00ffbf",
+      "verified_gradient": "#00ffbf,#ffffff",
+      "nick_gradient": "#00ffbf,#ffffff",
+      "banner": "emerald",
+      "font": "ubuntu",
+      "custom_banner_color1": "#6366f1",
+      "custom_banner_color2": "#8b5cf6",
+      "playerId": null,
+      "discordId": null
+    }
+  },
+  "updated_at": "2026-02-10T16:14:38.782Z"
+}
