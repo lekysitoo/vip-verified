@@ -55,7 +55,21 @@
       "custom_banner_color2": "#8b5cf6",
       "playerId": null,
       "discordId": null
+    },
+    "Player": {
+      "verified": true,
+      "isPro": true,
+      "verified_color": "#249ef0",
+      "nick_color": "#249ef0",
+      "verified_gradient": "#f5cc00,#ec4899",
+      "nick_gradient": "#00eeff,#ffffff",
+      "banner": "none",
+      "font": "ubuntu",
+      "custom_banner_color1": "#6366f1",
+      "custom_banner_color2": "#8b5cf6",
+      "playerId": null,
+      "discordId": null
     }
   },
-  "updated_at": "2026-02-11T00:37:24.528Z"
+  "updated_at": "2026-02-11T00:56:56.910Z"
 }
