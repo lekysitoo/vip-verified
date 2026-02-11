@@ -69,7 +69,21 @@
       "custom_banner_color2": "#8b5cf6",
       "playerId": null,
       "discordId": null
+    },
+    ":D": {
+      "verified": true,
+      "isPro": true,
+      "verified_color": "#f02424",
+      "nick_color": "#f02424",
+      "verified_gradient": "",
+      "nick_gradient": "",
+      "banner": "none",
+      "font": "default",
+      "custom_banner_color1": "#6366f1",
+      "custom_banner_color2": "#8b5cf6",
+      "playerId": null,
+      "discordId": null
     }
   },
-  "updated_at": "2026-02-11T01:43:34.355Z"
+  "updated_at": "2026-02-11T19:15:47.937Z"
 }
