@@ -97,7 +97,21 @@
       "custom_banner_color2": "#8b5cf6",
       "playerId": null,
       "discordId": null
+    },
+    "un capo": {
+      "verified": true,
+      "isPro": true,
+      "verified_color": "#ff7b00",
+      "nick_color": "#249ef0",
+      "verified_gradient": "",
+      "nick_gradient": "#80bdff,#fffafa",
+      "banner": "ocean",
+      "font": "righteous",
+      "custom_banner_color1": "#6366f1",
+      "custom_banner_color2": "#8b5cf6",
+      "playerId": null,
+      "discordId": null
     }
   },
-  "updated_at": "2026-02-12T18:46:21.069Z"
+  "updated_at": "2026-02-15T13:26:16.600Z"
 }
