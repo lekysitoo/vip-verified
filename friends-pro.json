@@ -45,14 +45,14 @@
     "son": {
       "verified": true,
       "isPro": true,
-      "verified_color": "#0bc193",
-      "nick_color": "#0072a3",
-      "verified_gradient": "",
-      "nick_gradient": "",
-      "banner": "none",
-      "font": "default",
-      "custom_banner_color1": "#000000",
-      "custom_banner_color2": "#4db2ff",
+      "verified_color": "#249ef0",
+      "nick_color": "#249ef0",
+      "verified_gradient": "#f5cc00,#ec4899",
+      "nick_gradient": "#00eeff,#ffffff",
+      "banner": "ocean",
+      "font": "ubuntu",
+      "custom_banner_color1": "#6366f1",
+      "custom_banner_color2": "#8b5cf6",
       "playerId": null,
       "discordId": null
     },
@@ -113,5 +113,5 @@
       "discordId": null
     }
   },
-  "updated_at": "2026-02-17T01:38:02.063Z"
+  "updated_at": "2026-02-19T01:54:39.607Z"
 }
