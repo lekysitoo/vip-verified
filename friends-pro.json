@@ -61,10 +61,10 @@
       "isPro": true,
       "verified_color": "#249ef0",
       "nick_color": "#249ef0",
-      "verified_gradient": "#f5cc00,#ec4899",
-      "nick_gradient": "#00eeff,#ffffff",
+      "verified_gradient": "#51ff00,#ffffff",
+      "nick_gradient": "#51ff00,#ffffff",
       "banner": "none",
-      "font": "ubuntu",
+      "font": "default",
       "custom_banner_color1": "#6366f1",
       "custom_banner_color2": "#8b5cf6",
       "playerId": null,
@@ -113,5 +113,5 @@
       "discordId": null
     }
   },
-  "updated_at": "2026-02-19T01:54:39.607Z"
+  "updated_at": "2026-03-03T01:37:58.497Z"
 }
