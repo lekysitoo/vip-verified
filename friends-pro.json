@@ -111,7 +111,21 @@
       "custom_banner_color2": "#8b5cf6",
       "playerId": null,
       "discordId": null
+    },
+    "e": {
+      "verified": true,
+      "isPro": true,
+      "verified_color": "#249ef0",
+      "nick_color": "#249ef0",
+      "verified_gradient": "#f59e0b,#ef4444",
+      "nick_gradient": "#f59e0b,#ef4444",
+      "banner": "emerald",
+      "font": "orbitron",
+      "custom_banner_color1": "#6366f1",
+      "custom_banner_color2": "#8b5cf6",
+      "playerId": null,
+      "discordId": null
     }
   },
-  "updated_at": "2026-03-03T01:37:58.497Z"
+  "updated_at": "2026-03-11T01:00:30.355Z"
 }
