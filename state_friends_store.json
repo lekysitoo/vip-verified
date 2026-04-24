@@ -1,6 +1,20 @@
 {
   "nextRequestId": 1,
-  "users": {},
-  "friends": {},
+  "users": {
+    "362046619115454475": {
+      "discord_id": "362046619115454475",
+      "username": "seb.uy",
+      "discord_name": "seb.uy",
+      "is_verified": true,
+      "is_online": false,
+      "room_name": null,
+      "room_link": null,
+      "room_players": null,
+      "last_seen": 1777049549749
+    }
+  },
+  "friends": {
+    "362046619115454475": []
+  },
   "requests": []
 }
