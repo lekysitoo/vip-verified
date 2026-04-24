@@ -7,7 +7,7 @@
     "verified_gradient": "#f59e0b,#ef4444",
     "nick_gradient": "#f59e0b,#ef4444",
     "banner": "custom",
-    "font": "default",
+    "font": "orbitron",
     "custom_banner_color1": "#000000",
     "custom_banner_color2": "#5cffce",
     "custom_banner_color3": "#22d3ee",
@@ -18,5 +18,5 @@
   },
   "is_pro": true,
   "is_verified": true,
-  "updated_at": 1777049997263
+  "updated_at": 1777050012279
 }
