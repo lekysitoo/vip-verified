@@ -11,12 +11,24 @@
       "room_link": null,
       "room_players": null,
       "last_seen": 1777049549749
+    },
+    "718186493302276161": {
+      "discord_id": "718186493302276161",
+      "username": "ggggggggggggg98",
+      "discord_name": "ggggggggggggg98",
+      "is_verified": true,
+      "is_online": false,
+      "room_name": null,
+      "room_link": null,
+      "room_players": null,
+      "last_seen": 1777056014808
     }
   },
   "friends": {
     "362046619115454475": [
       "362046619115454475"
-    ]
+    ],
+    "718186493302276161": []
   },
   "requests": []
 }
