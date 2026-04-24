@@ -1,0 +1,15 @@
+{
+  "verified_color": "#249EF0",
+  "nick_color": "#249EF0",
+  "verified_gradient": "",
+  "nick_gradient": "",
+  "banner": "none",
+  "font": "default",
+  "custom_banner_color1": "#6366f1",
+  "custom_banner_color2": "#8b5cf6",
+  "custom_banner_color3": "#22d3ee",
+  "custom_banner_color4": "#f59e0b",
+  "custom_banner_type": "linear",
+  "custom_banner_angle": 115,
+  "custom_banner_animate": "false"
+}
