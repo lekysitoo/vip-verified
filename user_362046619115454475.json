@@ -8,8 +8,8 @@
     "nick_gradient": "#f59e0b,#ef4444",
     "banner": "custom",
     "font": "comfortaa",
-    "custom_banner_color1": "#3b3b3b",
-    "custom_banner_color2": "#265f07",
+    "custom_banner_color1": "#000000",
+    "custom_banner_color2": "#5cffce",
     "custom_banner_color3": "#22d3ee",
     "custom_banner_color4": "#f59e0b",
     "custom_banner_type": "linear",
@@ -18,5 +18,5 @@
   },
   "is_pro": true,
   "is_verified": true,
-  "updated_at": 1777259375356
+  "updated_at": 1777336997729
 }
